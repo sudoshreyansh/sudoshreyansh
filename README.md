@@ -25,6 +25,11 @@ You can connect with me on:
   <img alt="LinkedIn" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
+<br /><br />
+
+[![@sudoshreyansh's Holopin board](https://holopin.me/sudoshreyansh)](https://holopin.io/@sudoshreyansh)
+
+
 <!--
 **sudoshreyansh/sudoshreyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
